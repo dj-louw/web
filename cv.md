@@ -6,14 +6,14 @@ permalink: /cv.html
 
 # Daniël J. Louw
 
-[+353 87 604 0915](tel:+353786040915) |
+[+353 87 604 0915](tel:+353876040915) |
 [hi@dlouw.com](mailto:hi@dlouw.com) |
 [dlouw.com](https://www.dlouw.com) |
 [LinkedIn](https://www.linkedin.com/in/daniel-louw-a19aa624/) |
 [GitHub](https://github.com/dj-louw) |
 [Wexford, Republic of Ireland](https://maps.app.goo.gl/KjZjkFN8UMrwLoMt6)
 
-**Business Analyst and Product Manager | Reformed Software Engineer**
+**Product Owner and Business Analyst | Reformed Software Engineer**
 
 ---
 
@@ -27,7 +27,12 @@ Business Analyst with extensive experience in product development. 5+ years of p
 
 ## Work Experience
 
-### Business Analyst @ [Platform45](https://www.platform45.com/) (2020 - Present)
+### Product Owner @ [HSI DoneSafe](https://www.donesafe.com/uk/workforce-competency-management-wcm/) (2026 - Present)
+
+- Product management, and product decision making for Workforce Competency Management, a sub-product of DoneSafe.
+- Oversees Supply Cahin and Mobile components of DoneSafe
+
+### Business Analyst @ [Platform45](https://www.platform45.com/) (2020 - 2026)
 
 - Developed a comprehensive Discovery Phase framework that was used as part of the Business Development team's process to scope out new project requirements
 - Collaborate with clients to extract product ideas, provide guidance and advice during Discovery workshops
